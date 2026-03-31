@@ -1,6 +1,6 @@
-#include <iostream> 
+#include <iostream>
 
-int main() { 
-    std::cout << "Hello, World!" << std::endl; 
-    return 0; 
+int main() {
+    std::cout << "Bun venit în Sistemul de Gestiune a Spitalului!" << std::endl;
+    return 0;
 }
